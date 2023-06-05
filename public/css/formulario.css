@@ -1,0 +1,36 @@
+#formulario{
+    background-color: #F9CD16;
+    margin-top: 2%;
+    margin-left: 30%;
+    width: 40%;
+    padding: 5%;
+    border: black solid 2px;
+    border-radius: 15px;
+}
+#enviar{
+    color: white;
+    background-color: #0B5ED7;
+    margin-top: 3%;
+    margin-left: 60%;
+    width: 40%;
+}
+.input{
+    width: 50%;
+}
+#asignar{
+    margin-top: 2%;
+    border-radius: 15px;
+    color: white;
+    background-color: #0B5ED7;
+}
+#cancelar{
+    margin-top: 2%;
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(201, 27, 27);
+}
+.libre{
+    text-align: center;
+    background-color: #3b69af;
+    border: white 2px solid;
+}
